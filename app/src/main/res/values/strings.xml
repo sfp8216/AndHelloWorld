@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">FirstAndroidApp</string>
+    <string name="inputText">Hello world!!!!</string>
 </resources>
